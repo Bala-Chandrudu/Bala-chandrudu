@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**Bala-Chandrudu/Bala-chandrudu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bala-Chandrudu/Bala-chandrudu** 
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
